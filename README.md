@@ -12,3 +12,11 @@ A simple checklist to execute in an easy way when you start using a OSX
 - Install IntelliJ https://www.jetbrains.com/es-es/idea/download/#section=mac
 - Test Installation
 - - Create a Spring Boot Application https://start.spring.io/
+
+```
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+export PATH="/Users/juan.brena/Library/Python/2.7/bin:$PATH"
+.zshrc
+.bash_profile
+```
